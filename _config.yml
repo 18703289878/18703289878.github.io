@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Couragelogos
+title: CskBlogger
 subtitle:
-description: wublub dubda
-author: Logos
+description:让自己变得优秀，是我目前最想也正在积极做的事
+author: Csk
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
